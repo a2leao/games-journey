@@ -17,9 +17,10 @@ Welcome to Tutis Tracker! This repository is a journal to document the gaming jo
 | 9     | Pokémon Scarlet (expansion)   |  Switch        | 5           |
 | 10    | Sonic Boom Fire and Ice       |  3DS           | 4           |
 | 11    | Sonic Generations             |  3DS           | 4           |
-| 12    | Sonic Superstar               |  Switch        | 5           |
-| 13    | Super Mario Odyssey           |  Switch        | 4           |
-| 14    | Super Mario Wonder            |  Switch        | 2           |
+| 12    | Sonic x Shadows Generations   |  Switch        | 5           |
+| 13    | Sonic Superstar               |  Switch        | 5           |
+| 14    | Super Mario Odyssey           |  Switch        | 4           |
+| 15    | Super Mario Wonder            |  Switch        | 2           |
 
 
 ## Why Track Games?
