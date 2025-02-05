@@ -21,6 +21,7 @@ Welcome to Tutis Tracker! This repository is a journal to document the gaming jo
 | 13    | Sonic Superstar               |  Switch        | 5           |
 | 14    | Super Mario Odyssey           |  Switch        | 4           |
 | 15    | Super Mario Wonder            |  Switch        | 2           |
+| 16    | Mario vs Rabbids: A Spark of hope |  Switch    | 5           |
 
 
 ## Why Track Games?
